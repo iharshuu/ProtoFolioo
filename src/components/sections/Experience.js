@@ -117,7 +117,8 @@ const Experience = () => {
             <StyledDivider />
           </StyledGenericTitle>
           <StyledGenericSubText component="h1">
-            Since graduating from Ursinus College in 2023, I have worked as a
+            Since graduating from Gayatri Vidya Parishad College of Engineering (Autonomous) (GVP) (GVPCE)
+            in 2023, I have worked as a
             full stack software engineer in the professional space.
           </StyledGenericSubText>
         </StyledGenericContainer>
