@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0",
+    "title": "Hommie",
+    "image": "../images/Hommie.png",
+    "description": "We built a platform to help students, professionals, and tourists find verified PGs and rental rooms easily. Property owners can list their spaces, ensuring a safer and smoother process",
+    "skills": ["React", "Node", "socket.io", "Redux", "Razorpay"],
+    "websiteLink": "https://hommiefe.vercel.app/",
+    "githubLink": "https://github.com/iharshuu/hommieFE"
+  },
+  {
+    "id": "1",
+    "title": " SurgeFlow",
+    "image": "../images/surgeflow.png",
+    "description": "Developed MERN social media platform, incorporating user authentication and core features such as posts, likes, comments, deletion, and following.",
+    "skills": ["React", "Node", "Multer", "Bcrypt", "Cloudinary"],
+    "websiteLink": "https://surge-front.vercel.app/",
+    "githubLink": "https://github.com/iharshuu/SurgeFlow"
+  },
+  {
+    "id": "2",
+    "title": " Minimalist Cart",
+    "image": "../images/minimalist.png",
+    "description": "Implemented a ReactJS shopping cart using Redux Toolkit, integrating Redux Persist to enable data persistence and streamline state management.",
+    "skills": ["React", "SASS", "Redux", "Redux"],
+    "websiteLink": "https://6512bcb926684b030d0bdd02--bejewelled-lollipop-38675c.netlify.app//",
+    "githubLink": "https://github.com/iharshuu/Shopping-Cart"
+  }
+
+]

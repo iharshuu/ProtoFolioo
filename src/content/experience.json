@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0",
+    "company": "Rysun Labs",
+    "jobTitle": "Associate Software Developer",
+    "years": "2024 (June) - Present",
+    "description": "Built scalable full-stack applications using React, TypeScript, Node.js, and NestJS, improving performance and reliability."
+  },
+  {
+    "id": "1",
+    "company": "Infigon Futures",
+    "jobTitle": "Frontend Developer Intern",
+    "years": "2023 (Dec) - 2024 (June)",
+    "description": "Developed reusable UI components and responsive websites using React, Tailwind CSS, and Next.js."
+  }
+]

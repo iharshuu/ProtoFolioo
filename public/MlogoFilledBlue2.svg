@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="58" viewBox="0 0 59 58">
+  <defs>
+    <pattern id="pattern-bg" patternUnits="userSpaceOnUse" width="20" height="20">
+      <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAOklEQVQ4T2O8fv36AQYGBhCmCmC8fv16g6amZgNVTGNgYBg1kPKQHA3D0TAkIwRGkw0ZgYamZQSGIQApY1AaL/I1PgAAAABJRU5ErkJggg==" x="0" y="0" width="20" height="20" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="59" height="58" fill="url(#pattern-bg)" />
+
+  <!-- Stylized S -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Arial Black, sans-serif" font-size="36" fill="#0B132B" letter-spacing="1">
+    S
+  </text>
+</svg>
