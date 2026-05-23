@@ -307,7 +307,7 @@ const Navbar = () => {
           target="_blank"
         >
           <Typography
-          onClick={() => window.open('/SrungavarapuSriharshaResume.pdf', '_blank')}>
+          onClick={() => window.open('/Srungavarapu_Sriharsha_Resume.pdf.pdf', '_blank')}>
   Resume
             </Typography>
         </StyledResumeLink>

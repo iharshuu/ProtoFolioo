@@ -132,7 +132,7 @@ const About = () => {
           </StyledGenericTitle>
           <StyledGenericSubText component="h1">
               I’m <strong>Sriharsha</strong>, a passionate frontend developer with a love for crafting 
-              beautiful, responsive, and performant web applications. With over 1+ years of experience, 
+              beautiful, responsive, and performant web applications. With over 2+ years of experience, 
               I specialize in <strong>React, Next.js, and modern JavaScript frameworks</strong>. 
               I enjoy turning complex problems into intuitive solutions and constantly learning new technologies.
             </StyledGenericSubText>
