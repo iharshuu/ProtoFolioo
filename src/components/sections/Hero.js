@@ -14,16 +14,20 @@ const StyledHeroRoot = styled("section")(({ theme }) => ({
   minHeight: "100vh",
 }));
 
-const StyledHeroContainer = styled(Container)(({ theme, ismobile }) => ({
-  display: "flex !important",
-  flex: "1",
+const StyledHeroContainer = styled(Container, {
+  shouldForwardProp: (prop) => prop !== "ismobile",
+})(({ theme, ismobile }) => ({
+  display: "flex",
+  flex: 1,
   alignItems: "center",
   alignSelf: "center",
-  boxSizing: "unset !important",
+  boxSizing: "unset",
   width: "unset",
-  ["@media (max-height: 804px)"]: {
-    paddingTop: ismobile ? "0px" : "102px",
+
+  "@media (max-height: 804px)": {
+    paddingTop: ismobile ? 0 : "102px",
   },
+
   [theme.breakpoints.up("sm")]: {
     marginTop: "2rem",
   },
