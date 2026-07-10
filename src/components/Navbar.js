@@ -222,7 +222,7 @@ const Navbar = () => {
             <StyledResumeLink
               href={
                 process.env.PUBLIC_URL +
-                "/Maximilian Oberholtzer Resume 2023.pdf"
+                "/Srungavarapu_Sriharsha_Resume.pdf"
               }
               target="_blank"
             >
@@ -307,7 +307,7 @@ const Navbar = () => {
           target="_blank"
         >
           <Typography
-          onClick={() => window.open('/Srungavarapu_Sriharsha_Resume.pdf.pdf', '_blank')}>
+          onClick={() => window.open('/Srungavarapu_Sriharsha_Resume.pdf', '_blank')}>
   Resume
             </Typography>
         </StyledResumeLink>
